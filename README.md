@@ -1,0 +1,1 @@
+I used mvm architecture. With the help of retrofit we can use JSON file, where we have movie description, rating, trailer. I have list in recycler view in order to show movies name. When we click to trailer app directs to Youtube.
